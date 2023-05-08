@@ -1,1 +1,1 @@
-# TextUtils
+<h3>TextUtils</h3><h4> is a react-based WedApp designed with quick features to modify your text and with the summarization of text. It is useful for quick review and better modification of any given text</h4>
